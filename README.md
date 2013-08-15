@@ -19,6 +19,6 @@ This work by Jan T. Sott is licensed under a [Creative Commons Attribution-Share
 [<img src="https://raw.github.com/balupton/flattr-buttons/master/badge-89x18.gif" />][4]
 
 [1]: http://en.wikipedia.org/wiki/Charley_Harper
-[2]: https://raw.github.com/idleberg/Harper-Harper/master/images/screenshot.png
+[2]: https://raw.github.com/idleberg/Harper-iTerm2/master/images/screenshot.png
 [3]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
 [4]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Harper-iTerm2/&title=Harper%20Color%20Scheme&category=software
